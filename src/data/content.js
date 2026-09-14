@@ -182,7 +182,7 @@ export const contactInfo = {
     },
     {
       label: "LinkedIn",
-      href: "https://www.linkedin.com/in/p-dominiak-pd/",
+      href: "https://www.linkedin.com/in/damian-dominiak/?locale=en-US",
       icon: "external",
       external: true,
     },
