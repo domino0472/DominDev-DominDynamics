@@ -172,7 +172,7 @@ export const contactSection = {
 };
 
 export const contactInfo = {
-  email: "kontakt@domindynamics.com",
+  email: "d.domi.0472@gmail.com",
   socials: [
     {
       label: "GitHub",
