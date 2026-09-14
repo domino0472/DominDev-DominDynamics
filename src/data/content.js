@@ -176,7 +176,7 @@ export const contactInfo = {
   socials: [
     {
       label: "GitHub",
-      href: "https://github.com/DominDev/DominDev-DominDynamics",
+      href: "https://github.com/domino0472",
       icon: "external",
       external: true,
     },
