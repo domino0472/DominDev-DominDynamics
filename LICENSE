@@ -1,0 +1,44 @@
+# MIT License (Code) + All Rights Reserved (Assets)
+
+This repository uses a dual licensing model:
+
+- source code is licensed under the MIT License
+- assets, branding, and written content are All Rights Reserved unless explicit written permission is granted
+
+For package ecosystem compatibility, `package.json` declares the code license as `MIT`. The terms below remain the authoritative licensing reference for the repository as a whole.
+
+Copyright (c) 2026 DominDev
+
+## Code License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Assets License (All Rights Reserved)
+
+All images, graphics, logos, icons, videos, audio files, and written content
+in this repository are **All Rights Reserved** and may not be used, copied,
+modified, or distributed without explicit written permission from DominDev.
+
+This includes but is not limited to:
+- `/src/assets/` directory and all subdirectories
+- `/public/` directory (including manifest/robots/sitemap)
+- Brand assets, logos, and trademarks
+- Written content (copy, descriptions, data) in `src/data/content.js`
+
+For licensing inquiries, contact: contact@domindev.com
